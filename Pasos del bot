@@ -1,0 +1,17 @@
+1.- Descarga e instala node.js
+
+2.- Descarga e instala Visual Studio Code
+------------------------------------------
+3.- Crea una carpeta en tu escritorio con el nombre de tu Bot
+
+4.- Abre la carpeta en Visual Stusio Code
+------------------------------------------
+5.- Abre una terminal en Visual con  Ctrl+Mayus+ñ
+
+6.- En la terminal pones: npm init -y
+
+7.- En la terminal pones: npm i discord.js
+
+8.- Creas el archivo index.js
+
+9.- Creas el archivo config.json
